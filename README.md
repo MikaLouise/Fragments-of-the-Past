@@ -40,10 +40,39 @@ He finally arrived at the venue.
 
 ### Level Design (WIP)
 Living Room <br /> ![image](https://github.com/MikaLouise/Fragments-of-the-Past/assets/145468590/70fd3ca9-eb08-488d-9932-2c9b7c95df36)
-![image](https://github.com/MikaLouise/Fragments-of-the-Past/assets/145468590/72844ce0-5a63-4506-9fd5-41d1b6158ea0)
+![Room 1 (2)](https://github.com/MikaLouise/Fragments-of-the-Past/assets/145468590/8b486cf4-b69c-43e3-92ea-8459cde5208f)
 
 
 Bedroom 1 <br /> ![image](https://github.com/MikaLouise/Fragments-of-the-Past/assets/145468590/c8e47b9a-8152-4a7d-91e5-7d1ee96477b1)
+
+## Puzzles (WIP)
+
+Toy Chest <br /> ![Toy Box](https://github.com/MikaLouise/Fragments-of-the-Past/assets/145468590/c40ca9ff-fe84-4c2f-81e7-f850d548d5bb)
+
+Toy Chest (On click) ![image](https://github.com/MikaLouise/Fragments-of-the-Past/assets/145468590/7e77b5cd-b46e-4583-bafb-c857cdbc3925)
+
+Toy Chest (Inside) ![Toy Box - INSIDE](https://github.com/MikaLouise/Fragments-of-the-Past/assets/145468590/2794f245-8beb-4c1e-b2e3-af499e2d97d3)
+
+Painting <br /> ![PaintingZoom](https://github.com/MikaLouise/Fragments-of-the-Past/assets/145468590/af7e3816-a81f-4d58-bf07-08f4a5c147c3)
+
+Puzzle (Behind the Painting) ![Painting Opened](https://github.com/MikaLouise/Fragments-of-the-Past/assets/145468590/757e562e-6b5b-43fd-abb7-0fc81cc1b2bc)
+
+## Object Clues (WIP)
+
+Beach Photo <br /> ![Beach](https://github.com/MikaLouise/Fragments-of-the-Past/assets/145468590/7b59723b-9384-4e27-a6b1-2c366cd581f7)
+
+Photo of a boy <br /> ![Baseball](https://github.com/MikaLouise/Fragments-of-the-Past/assets/145468590/7a03a2be-f995-406d-a773-335bedbefc7b)
+
+Child's Drawing <br /> ![Drawing](https://github.com/MikaLouise/Fragments-of-the-Past/assets/145468590/62a0f2e9-1750-4075-9d08-dc45245ae77d)
+
+
+
+
+
+
+
+
+
 
 
 
